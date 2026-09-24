@@ -1,0 +1,1 @@
+function markAllPresent(){document.querySelectorAll('input[value=Present]').forEach(x=>x.checked=true)}
